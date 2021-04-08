@@ -1,0 +1,15 @@
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.exe
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.deps.json
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.runtimeconfig.json
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.dll
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\ref\MoreIfStatementsPractice.dll
+C:\Users\antho\repos\MoreIfStatementsPractice\bin\Debug\net5.0\MoreIfStatementsPractice.pdb
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.dll
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\ref\MoreIfStatementsPractice.dll
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.pdb
+C:\Users\antho\repos\MoreIfStatementsPractice\obj\Debug\net5.0\MoreIfStatementsPractice.genruntimeconfig.cache
